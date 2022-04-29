@@ -6,5 +6,5 @@
     "values": {"ember7": "pp6735872@gmail.com",
         "ember9": "pepitoperez"
         },
-    "browsers": ["chromium", "webkit", "firefox"]
+    "browsers": ["chromium"]
 }
